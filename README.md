@@ -55,7 +55,7 @@ EmployeeManagementSystem
 ## Project Screenshots
 
 ### Home Page
-![Home Page]("C:\Users\Jshree_1357\OneDrive\Pictures\Screenshots\Screenshot 2026-05-25 214228.png")
+![Home Page](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20214228.png)
 
 ### Employee Form
 ![Employee Form](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/employee-form.png)
