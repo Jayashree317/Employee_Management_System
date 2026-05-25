@@ -27,7 +27,6 @@ This application helps manage employees and departments with CRUD operations and
 ### Frontend
 - HTML
 - CSS
-- Bootstrap
 - Thymeleaf
 
 ### Database
