@@ -64,3 +64,8 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
+
+## Project Screenshots
+
+### Employee Form
+![Employee Form](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20214228.png)
