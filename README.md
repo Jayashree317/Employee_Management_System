@@ -52,6 +52,22 @@ EmployeeManagementSystem
 
 ---
 
+## Project Screenshots
+
+### Home Page
+![Home Page](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/homepage.png)
+
+### Employee Form
+![Employee Form](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/employee-form.png)
+
+### Department Page
+![Department Page](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/department-page.png)
+
+### Add Employee
+![Add Employee](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/add-employee.png)
+
+---
+
 ## Database Configuration
 
 Update `application.properties`
