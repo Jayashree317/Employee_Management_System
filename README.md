@@ -63,7 +63,7 @@ EmployeeManagementSystem
 ### Department Page
 ![Department Page](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20214618.png)
 
-### Add Employee
+### Add Department
 ![Add Employee](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20215006.png)
 
 ---
