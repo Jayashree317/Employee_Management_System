@@ -58,13 +58,13 @@ EmployeeManagementSystem
 ![Home Page](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20214228.png)
 
 ### Employee Form
-![Employee Form](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/employee-form.png)
+![Employee Form](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20214453.png)
 
 ### Department Page
-![Department Page](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/department-page.png)
+![Department Page](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20214618.png)
 
 ### Add Employee
-![Add Employee](https://raw.githubusercontent.com/Jayashree317/Employee_Management_System/main/add-employee.png)
+![Add Employee](https://github.com/Jayashree317/Employee_Management_System/blob/main/Screenshot%202026-05-25%20215006.png)
 
 ---
 
