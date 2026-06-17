@@ -1,12 +1,19 @@
-FROM eclipse-temurin:17-jdk
+# Stage 1: Build the application
+FROM maven:3.9.6-eclipse-temurin-17 AS build
 
 WORKDIR /app
 
 COPY . .
 
-RUN chmod +x mvnw
-RUN ./mvnw clean package -DskipTests
+RUN mvn clean package -DskipTests
+
+# Stage 2: Run the application
+FROM openjdk:17
+
+WORKDIR /app
+
+COPY --from=build /app/target/*.jar app.jar
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "target/employee-management-system-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
